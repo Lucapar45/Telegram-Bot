@@ -1,1 +1,1 @@
-test : python "main.py"
+test : python "./main.py"
