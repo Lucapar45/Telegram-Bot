@@ -1,0 +1,4 @@
+telegram
+youtube_dl
+spotipy
+pandas
