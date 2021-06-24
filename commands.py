@@ -125,4 +125,3 @@ def ytlink_command(update, context):
                 video = ytdl.extract_info(name, download = False)
         ytlink = video['webpage_url']
         update.message.reply_text(ytlink)
-
